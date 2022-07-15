@@ -10,12 +10,12 @@ Steps to use the tool
 7. The output will be saved in ouput.txt
 
 
-#Example to make the host file
+Example to make the host file
 ![image](https://user-images.githubusercontent.com/109304455/179278793-0adbceaf-53dc-473c-a6d9-d24db6868a86.png)
 
-#Example of The tool 
+Example of The tool 
 ![image](https://user-images.githubusercontent.com/109304455/179278864-bd52a144-f57c-4af5-a038-49ebc805ed08.png)
 
-#Example of output.txt 
+Example of output.txt 
 ![image](https://user-images.githubusercontent.com/109304455/179279075-2a90d566-66a8-414f-81de-013aae128085.png)
 
